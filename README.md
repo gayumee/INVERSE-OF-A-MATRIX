@@ -25,11 +25,8 @@ sol=np.linalg.inv(a)
 print(sol)
 ```
 ## Output:
-```
-[[ 1.         -1.          0.        ]
- [-0.33333333  1.         -0.33333333]
- [-0.66666667  1.          0.33333333]]
-```
+![image](https://github.com/gayumee/INVERSE-OF-A-MATRIX/assets/149037327/637a4434-6837-4068-9711-fd7e766bb1af)
+
 ## Result:
 Thus the inverse of given matrix is successfully solved using python program
 
